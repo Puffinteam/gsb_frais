@@ -5,7 +5,7 @@ require_once ("include/class.pdogsb.inc.php");
 use Symfony\Component\HttpFoundation\Session\Session;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use PdoGsb;
-
+//test git_hub
 class HomeController extends Controller
 {
 public function indexAction()
